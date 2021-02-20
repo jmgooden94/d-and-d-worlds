@@ -6,3 +6,7 @@
 {"_id":"oOEL4l55odsL8PGx","name":"Jon","flags":{"dice-so-nice":{"welcomeMessageShown":true,"appearance":{"labelColor":"#000000","diceColor":"#28cc4a","outlineColor":"#28cc4a","edgeColor":"#28cc4a","texture":"cloudy","material":"glass","font":"auto","colorset":"starynight","system":"standard"}}},"role":4,"permissions":{},"password":"heresyouradminkey","color":"#28cc4a","hotbar":{"1":"H3jNP0VvjgIKTacH"}}
 {"_id":"yTyZHT1v7m91sQSW","name":"Dylan","flags":{},"role":2,"permissions":{},"password":"nicisabitch","avatar":"icons/svg/mystery-man.svg","character":"POAbQT2ltsDSBvX1","color":"#3acc28","hotbar":{}}
 {"$$deleted":true,"_id":"SYZMWyvJxFsXmhFC"}
+{"name":"Player 7","flags":{},"role":1,"permissions":{},"color":"#28cca4","hotbar":{},"_id":"dyzGvt4OzlaHW3MR"}
+{"_id":"dyzGvt4OzlaHW3MR","name":"Jon's Test Player","flags":{},"role":2,"permissions":{},"password":"heresyouradminkey","color":"#28cca4","hotbar":{}}
+{"_id":"dyzGvt4OzlaHW3MR","name":"Jon's Test Player","flags":{"dice-so-nice":{"welcomeMessageShown":true}},"role":2,"permissions":{},"password":"heresyouradminkey","color":"#28cca4","hotbar":{}}
+{"_id":"dyzGvt4OzlaHW3MR","name":"Jon's Test Player","flags":{"dice-so-nice":{"welcomeMessageShown":true}},"role":2,"permissions":{},"password":"heresyouradminkey","avatar":"icons/svg/mystery-man.svg","character":"","color":"#28cca4","hotbar":{}}
