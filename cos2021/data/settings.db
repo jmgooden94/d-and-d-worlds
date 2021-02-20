@@ -1,0 +1,5 @@
+{"_id":"9N0OFLSHS70JU9HQ","key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"FILES_BROWSE\":[2,3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"JOURNAL_CREATE\":[2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"ACTOR_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"TOKEN_CREATE\":[2,3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"WALL_DOORS\":[1,2,3,4],\"FILES_UPLOAD\":[2,3,4],\"DRAWING_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4]}"}
+{"_id":"EHnBDhAVAhY9q5Qg","key":"core.time","value":"30"}
+{"_id":"H4daxc10OxWoXmA1","key":"core.combatTrackerConfig","value":"{\"resource\":\"attributes.hp.value\",\"skipDefeated\":true}"}
+{"_id":"xdcknVFrJRD4eY1U","key":"core.sheetClasses","value":"{\"Actor\":{\"character\":\"dnd5e.Tidy5eSheet\"}}"}
+{"_id":"yqBwFhRk4qE0DjTw","key":"core.moduleConfiguration","value":"{\"conditions5e\":true,\"dndbeyond-character-sheet\":true,\"lmrtfy\":true,\"plutonium\":true,\"poi-sheet\":true,\"alt5e\":true,\"tidy5e-sheet\":true,\"dd-import\":true,\"perfect-vision\":true,\"combatready\":true,\"dice-so-nice\":true,\"ShowDragDistance\":true}"}

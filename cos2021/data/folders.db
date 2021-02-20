@@ -1,0 +1,7 @@
+{"name":"Items","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"BHFDC9rk6HtP1Qmg"}
+{"name":"Tables","type":"RollTable","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"SsnxSmI0p82yZiJk"}
+{"name":"Creatures","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"fFtcaaEgKa5Nfvbd"}
+{"name":"Adventures","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"i8b7wA9lDQqKf9PJ"}
+{"name":"Spells","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"qsWH1phIBVRcLMe9"}
+{"name":"Players","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"smYsHuzK0RUH5DJw"}
+{"name":"DM Notes","type":"JournalEntry","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"1j43v4VL7EixhVNi"}
