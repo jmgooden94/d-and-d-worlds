@@ -7,3 +7,4 @@
 {"_id":"f1guyowQ7rGz0PwD","key":"dd-import.importSettings","value":"{\"source\":\"data\",\"extension\":\"png\",\"bucket\":\"\",\"region\":\"\",\"path\":\"worlds/cos2021\",\"offset\":0.1,\"fidelity\":1,\"multiImageMode\":\"g\",\"webpConversion\":true,\"wallsAroundFiles\":true}"}
 {"_id":"f1guyowQ7rGz0PwD","key":"dd-import.importSettings","value":"{\"source\":\"data\",\"extension\":\"png\",\"bucket\":\"\",\"region\":\"\",\"path\":\"worlds/cos2021\",\"offset\":0.1,\"fidelity\":1,\"multiImageMode\":\"g\",\"webpConversion\":true,\"wallsAroundFiles\":true}"}
 {"key":"perfect-vision.improvedGMVision","value":"true","_id":"EPNezfozEezffRvk"}
+{"key":"perfect-vision._version","value":"1","_id":"kfYg3t5ndUJqGUbw"}
