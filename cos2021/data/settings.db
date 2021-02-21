@@ -9,3 +9,5 @@
 {"key":"perfect-vision.improvedGMVision","value":"true","_id":"EPNezfozEezffRvk"}
 {"key":"perfect-vision._version","value":"1","_id":"kfYg3t5ndUJqGUbw"}
 {"_id":"yqBwFhRk4qE0DjTw","key":"core.moduleConfiguration","value":"{\"conditions5e\":true,\"dndbeyond-character-sheet\":true,\"lmrtfy\":true,\"plutonium\":true,\"poi-sheet\":true,\"alt5e\":true,\"tidy5e-sheet\":true,\"dd-import\":true,\"perfect-vision\":true,\"combatready\":true,\"dice-so-nice\":true,\"ShowDragDistance\":true,\"one-journal\":true,\"pings\":true,\"polyglot\":true,\"token-action-hud\":true}"}
+{"_id":"f1guyowQ7rGz0PwD","key":"dd-import.importSettings","value":"{\"source\":\"data\",\"extension\":\"png\",\"bucket\":\"\",\"region\":\"\",\"path\":\"worlds/cos2021\",\"offset\":0.1,\"fidelity\":1,\"multiImageMode\":\"g\",\"webpConversion\":true,\"wallsAroundFiles\":true}"}
+{"_id":"f1guyowQ7rGz0PwD","key":"dd-import.importSettings","value":"{\"source\":\"data\",\"extension\":\"png\",\"bucket\":\"\",\"region\":\"\",\"path\":\"worlds/cos2021\",\"offset\":0.1,\"fidelity\":1,\"multiImageMode\":\"g\",\"webpConversion\":true,\"wallsAroundFiles\":true}"}
