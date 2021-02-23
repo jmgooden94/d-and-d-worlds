@@ -8,3 +8,5 @@
 {"name":"Adventures","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"i8b7wA9lDQqKf9PJ"}
 {"name":"Spells","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"qsWH1phIBVRcLMe9"}
 {"name":"Players","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"smYsHuzK0RUH5DJw"}
+{"name":"Barovia","type":"Scene","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"SCyPCSeEVHon6Qye"}
+{"name":"Session Notes","type":"JournalEntry","sort":400000,"flags":{},"parent":"1j43v4VL7EixhVNi","sorting":"a","color":"","_id":"oKuItMsoXBbqflUk"}
